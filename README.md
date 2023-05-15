@@ -9,5 +9,5 @@ This project demonstrates the use of Li-Fi technology to transmit data wirelessl
 | Name                                            | Roll Number |
 | ----------------------------------------------- | ----------- |
 | [Divyam Patel](https://github.com/pateldivyam26) | B20EE082   | 
-| [Harshit Mathur](https://github.com/pateldivyam26)    | B20EE085    |
+| [Harshit Mathur](https://github.com/harshitmathur2000)    | B20EE085    |
 | [Rishabh Jain](https://github.com/pateldivyam26)    | B20EE083   |
